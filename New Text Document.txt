@@ -1,0 +1,8 @@
+git commit -m ""
+-m is a parameter. saying git i am saying something to u with the mesage in the " ".
+
+git config --global user.name "muraliaari" -- to set the user name
+git config --global user.email "email" -- to set the email id
+git config --list -- to check wherhr the details added or not.
+git branch
+git branch -M -- says main branch.
